@@ -2,8 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
 
-  basePath: "/nextjs-pages",
-  assetsPrefix: "/nextjs-pages",
+  
 }
 
 
